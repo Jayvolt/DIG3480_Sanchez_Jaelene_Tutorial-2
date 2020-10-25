@@ -1,0 +1,351 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 23 2020 13:03:54 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* "Assets/Palettes/New Palette.prefab"
+* Assets/Scenes/SampleScene.unity
+* Assets/Scripts/CameraScript.cs
+* Assets/Scripts/PlayerScript.cs
+* Library/ArtifactDB
+* Library/CurrentLayout-default.dwlt
+* Library/CurrentMaximizeLayout.dwlt
+* Library/InspectorExpandedItems.asset
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Documentation~/images/example.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/added-file-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/added-file-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/added-file-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/added-file-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/back-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/back-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/back-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/back-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/choose-mine-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/choose-mine-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/choose-mine-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/choose-mine-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/choose-remote-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/choose-remote-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/choose-remote-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/choose-remote-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/clear-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/clear-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/clear-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/clear-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-available-changes-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-available-changes-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-available-changes-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-available-changes-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-done-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-done-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-done-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-done-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-error-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-error-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-error-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-error-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-incoming-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-incoming-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-incoming-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-incoming-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-offline-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-offline-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-offline-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-offline-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-progress-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-progress-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-progress-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-progress-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-warning-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-warning-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-warning-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/collaborate-warning-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/conflicted-file-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/conflicted-file-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/conflicted-file-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/conflicted-file-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/deleted-file-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/deleted-file-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/deleted-file-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/deleted-file-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/diff-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/diff-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/diff-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/diff-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/edited-file-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/edited-file-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/edited-file-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/edited-file-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/loading-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/loading-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/loading-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/loading-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/merge-conflicts-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/merge-conflicts-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/merge-conflicts-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/merge-conflicts-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/merge-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/merge-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/merge-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/merge-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/more-vert-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/more-vert-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/more-vert-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/more-vert-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/moved-file-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/moved-file-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/moved-file-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/moved-file-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/publish-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/publish-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/publish-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/publish-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/revert-asset-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/revert-asset-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/revert-asset-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/revert-asset-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/search-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/search-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/search-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/search-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/show-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/show-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/show-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/show-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-error-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-error-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-error-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-error-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-info-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-info-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-info-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-info-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-warning-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-warning-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-warning-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/status-warning-light@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/undo-dark.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/undo-dark@2x.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/undo-light.png
+* Library/PackageCache/com.unity.collab-proxy@1.3.8/Editor/Assets/Icons/undo-light@2x.png
+* Library/PackageManager/ProjectCache.bin
+* Library/SceneVisibilityState.asset
+* Library/ScriptAssemblies/Assembly-CSharp.dll
+* Library/ScriptAssemblies/Assembly-CSharp.pdb
+* Library/ShaderCache/EditorEncounteredVariants
+* Library/SourceAssetDB
+* Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+* Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+* Library/shadercompiler-UnityShaderCompiler.exe0.log
+* ProjectSettings/TagManager.asset
+
+
+Created files:
+* .autogit/autogit.json
+* .autogit/logs/log-17-9-2020-23-47-45.txt
+* .autogit/logs/log-18-9-2020-10-50-7.txt
+* .autogit/logs/log-18-9-2020-11-20-10.txt
+* .autogit/logs/log-20-9-2020-20-35-58.txt
+* .autogit/logs/log-20-9-2020-20-5-53.txt
+* .autogit/logs/log-20-9-2020-22-37-44.txt
+* .autogit/logs/log-20-9-2020-23-37-55.txt
+* .autogit/logs/log-20-9-2020-23-7-49.txt
+* .vscode/settings.json
+* Assets/Animations.meta
+* Assets/Animations/Idle.anim
+* Assets/Animations/Idle.anim.meta
+* Assets/Animations/Player.controller
+* Assets/Animations/Player.controller.meta
+* Assets/Models/UFO.png
+* Assets/Models/dog.meta
+* "Assets/Models/dog/Dead (1).png"
+* "Assets/Models/dog/Dead (1).png.meta"
+* "Assets/Models/dog/Dead (10).png"
+* "Assets/Models/dog/Dead (10).png.meta"
+* "Assets/Models/dog/Dead (2).png"
+* "Assets/Models/dog/Dead (2).png.meta"
+* "Assets/Models/dog/Dead (3).png"
+* "Assets/Models/dog/Dead (3).png.meta"
+* "Assets/Models/dog/Dead (4).png"
+* "Assets/Models/dog/Dead (4).png.meta"
+* "Assets/Models/dog/Dead (5).png"
+* "Assets/Models/dog/Dead (5).png.meta"
+* "Assets/Models/dog/Dead (6).png"
+* "Assets/Models/dog/Dead (6).png.meta"
+* "Assets/Models/dog/Dead (7).png"
+* "Assets/Models/dog/Dead (7).png.meta"
+* "Assets/Models/dog/Dead (8).png"
+* "Assets/Models/dog/Dead (8).png.meta"
+* "Assets/Models/dog/Dead (9).png"
+* "Assets/Models/dog/Dead (9).png.meta"
+* "Assets/Models/dog/Fall (1).png"
+* "Assets/Models/dog/Fall (1).png.meta"
+* "Assets/Models/dog/Fall (2).png"
+* "Assets/Models/dog/Fall (2).png.meta"
+* "Assets/Models/dog/Fall (3).png"
+* "Assets/Models/dog/Fall (3).png.meta"
+* "Assets/Models/dog/Fall (4).png"
+* "Assets/Models/dog/Fall (4).png.meta"
+* "Assets/Models/dog/Fall (5).png"
+* "Assets/Models/dog/Fall (5).png.meta"
+* "Assets/Models/dog/Fall (6).png"
+* "Assets/Models/dog/Fall (6).png.meta"
+* "Assets/Models/dog/Fall (7).png"
+* "Assets/Models/dog/Fall (7).png.meta"
+* "Assets/Models/dog/Fall (8).png"
+* "Assets/Models/dog/Fall (8).png.meta"
+* "Assets/Models/dog/Hurt (1).png"
+* "Assets/Models/dog/Hurt (1).png.meta"
+* "Assets/Models/dog/Hurt (10).png"
+* "Assets/Models/dog/Hurt (10).png.meta"
+* "Assets/Models/dog/Hurt (2).png"
+* "Assets/Models/dog/Hurt (2).png.meta"
+* "Assets/Models/dog/Hurt (3).png"
+* "Assets/Models/dog/Hurt (3).png.meta"
+* "Assets/Models/dog/Hurt (4).png"
+* "Assets/Models/dog/Hurt (4).png.meta"
+* "Assets/Models/dog/Hurt (5).png"
+* "Assets/Models/dog/Hurt (5).png.meta"
+* "Assets/Models/dog/Hurt (6).png"
+* "Assets/Models/dog/Hurt (6).png.meta"
+* "Assets/Models/dog/Hurt (7).png"
+* "Assets/Models/dog/Hurt (7).png.meta"
+* "Assets/Models/dog/Hurt (8).png"
+* "Assets/Models/dog/Hurt (8).png.meta"
+* "Assets/Models/dog/Hurt (9).png"
+* "Assets/Models/dog/Hurt (9).png.meta"
+* "Assets/Models/dog/Idle (1).png"
+* "Assets/Models/dog/Idle (1).png.meta"
+* "Assets/Models/dog/Idle (10).png"
+* "Assets/Models/dog/Idle (10).png.meta"
+* "Assets/Models/dog/Idle (2).png"
+* "Assets/Models/dog/Idle (2).png.meta"
+* "Assets/Models/dog/Idle (3).png"
+* "Assets/Models/dog/Idle (3).png.meta"
+* "Assets/Models/dog/Idle (4).png"
+* "Assets/Models/dog/Idle (4).png.meta"
+* "Assets/Models/dog/Idle (5).png"
+* "Assets/Models/dog/Idle (5).png.meta"
+* "Assets/Models/dog/Idle (6).png"
+* "Assets/Models/dog/Idle (6).png.meta"
+* "Assets/Models/dog/Idle (7).png"
+* "Assets/Models/dog/Idle (7).png.meta"
+* "Assets/Models/dog/Idle (8).png"
+* "Assets/Models/dog/Idle (8).png.meta"
+* "Assets/Models/dog/Idle (9).png"
+* "Assets/Models/dog/Idle (9).png.meta"
+* "Assets/Models/dog/Jump (1).png"
+* "Assets/Models/dog/Jump (1).png.meta"
+* "Assets/Models/dog/Jump (2).png"
+* "Assets/Models/dog/Jump (2).png.meta"
+* "Assets/Models/dog/Jump (3).png"
+* "Assets/Models/dog/Jump (3).png.meta"
+* "Assets/Models/dog/Jump (4).png"
+* "Assets/Models/dog/Jump (4).png.meta"
+* "Assets/Models/dog/Jump (5).png"
+* "Assets/Models/dog/Jump (5).png.meta"
+* "Assets/Models/dog/Jump (6).png"
+* "Assets/Models/dog/Jump (6).png.meta"
+* "Assets/Models/dog/Jump (7).png"
+* "Assets/Models/dog/Jump (7).png.meta"
+* "Assets/Models/dog/Jump (8).png"
+* "Assets/Models/dog/Jump (8).png.meta"
+* "Assets/Models/dog/Run (1).png"
+* "Assets/Models/dog/Run (1).png.meta"
+* "Assets/Models/dog/Run (2).png"
+* "Assets/Models/dog/Run (2).png.meta"
+* "Assets/Models/dog/Run (3).png"
+* "Assets/Models/dog/Run (3).png.meta"
+* "Assets/Models/dog/Run (4).png"
+* "Assets/Models/dog/Run (4).png.meta"
+* "Assets/Models/dog/Run (5).png"
+* "Assets/Models/dog/Run (5).png.meta"
+* "Assets/Models/dog/Run (6).png"
+* "Assets/Models/dog/Run (6).png.meta"
+* "Assets/Models/dog/Run (7).png"
+* "Assets/Models/dog/Run (7).png.meta"
+* "Assets/Models/dog/Run (8).png"
+* "Assets/Models/dog/Run (8).png.meta"
+* "Assets/Models/dog/Slide (1).png"
+* "Assets/Models/dog/Slide (1).png.meta"
+* "Assets/Models/dog/Slide (10).png"
+* "Assets/Models/dog/Slide (10).png.meta"
+* "Assets/Models/dog/Slide (2).png"
+* "Assets/Models/dog/Slide (2).png.meta"
+* "Assets/Models/dog/Slide (3).png"
+* "Assets/Models/dog/Slide (3).png.meta"
+* "Assets/Models/dog/Slide (4).png"
+* "Assets/Models/dog/Slide (4).png.meta"
+* "Assets/Models/dog/Slide (5).png"
+* "Assets/Models/dog/Slide (5).png.meta"
+* "Assets/Models/dog/Slide (6).png"
+* "Assets/Models/dog/Slide (6).png.meta"
+* "Assets/Models/dog/Slide (7).png"
+* "Assets/Models/dog/Slide (7).png.meta"
+* "Assets/Models/dog/Slide (8).png"
+* "Assets/Models/dog/Slide (8).png.meta"
+* "Assets/Models/dog/Slide (9).png"
+* "Assets/Models/dog/Slide (9).png.meta"
+* "Assets/Models/dog/Walk (1).png"
+* "Assets/Models/dog/Walk (1).png.meta"
+* "Assets/Models/dog/Walk (10).png"
+* "Assets/Models/dog/Walk (10).png.meta"
+* "Assets/Models/dog/Walk (2).png"
+* "Assets/Models/dog/Walk (2).png.meta"
+* "Assets/Models/dog/Walk (3).png"
+* "Assets/Models/dog/Walk (3).png.meta"
+* "Assets/Models/dog/Walk (4).png"
+* "Assets/Models/dog/Walk (4).png.meta"
+* "Assets/Models/dog/Walk (5).png"
+* "Assets/Models/dog/Walk (5).png.meta"
+* "Assets/Models/dog/Walk (6).png"
+* "Assets/Models/dog/Walk (6).png.meta"
+* "Assets/Models/dog/Walk (7).png"
+* "Assets/Models/dog/Walk (7).png.meta"
+* "Assets/Models/dog/Walk (8).png"
+* "Assets/Models/dog/Walk (8).png.meta"
+* "Assets/Models/dog/Walk (9).png"
+* "Assets/Models/dog/Walk (9).png.meta"
+* Assets/Music.meta
+* Assets/Music/During.mp3
+* Assets/Music/During.mp3.meta
+* Assets/Music/Win.mp3
+* Assets/Music/Win.mp3.meta
+* Assets/Palettes/Cieling.prefab
+* Assets/Palettes/Cieling.prefab.meta
+* Assets/Scripts/EnemyScript.cs
+* Assets/Scripts/EnemyScript.cs.meta
+* Assets/Tiles/Square.asset
+* Assets/Tiles/Square.asset.meta
+
+
+Deleted files:
+* Assets/Models/Square.png
+* Library/Artifacts/07/07dd1a0e637cce4743b5328027bb8b57
+* Library/Artifacts/08/08ecc3faddcf6b1e8a814521f177b819
+* Library/Artifacts/23/23b47ea8b190858cbaf6469e9a6a0b82
+* Library/Artifacts/3d/3d05052873fb7ad16844d40ef30fa3e3
+* Library/Artifacts/3f/3f5626adac6ddad8356f68f824d83922
+* Library/Artifacts/44/440d3135c02756503dccc34eeb93ea51
+* Library/Artifacts/54/54f68b871de5666ee39359d59b22d530
+* Library/Artifacts/5c/5c4dde6189c9f513a269cae11db1639e
+* Library/Artifacts/61/61a28705653eadf86a07059e7554d861
+* Library/Artifacts/65/65be9e74c8f75c0106d15cd838b25a16
+* Library/Artifacts/69/6922df1a9a5aa56598ec7aa4f52654b9
+* Library/Artifacts/73/730b1cb9f307c576714047905d6f7f62
+* Library/Artifacts/76/76e121c84e01de14565911cd51d95898
+* Library/Artifacts/85/85a42d136fd73561a00aeb7e639badfe
+* Library/Artifacts/87/87dd2d19048e32cd26148d98e0f34f9d
+* Library/Artifacts/8c/8ca5c9b7b0abe16d221903782b348d4c
+* Library/Artifacts/97/976d6b367a582454855163005c0d11fe
+* Library/Artifacts/b9/b9c9918238a2adcf2e7b191fd1d55fc2
+* Library/Artifacts/e5/e55addb87171ab7f39c229851a670c00
+* Library/Artifacts/f0/f074c9d1915015e3413f13213136f6ec
+
+
+Renamed files:
+* [object Object]
